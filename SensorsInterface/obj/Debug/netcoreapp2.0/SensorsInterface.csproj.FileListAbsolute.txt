@@ -1,0 +1,11 @@
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.csprojResolveAssemblyReference.cache
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.csproj.CoreCompileInputs.cache
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.AssemblyInfoInputs.cache
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.AssemblyInfo.cs
+Z:\lab\SensorsInterface\SensorsInterface\bin\Debug\netcoreapp2.0\SensorsInterface.deps.json
+Z:\lab\SensorsInterface\SensorsInterface\bin\Debug\netcoreapp2.0\SensorsInterface.runtimeconfig.json
+Z:\lab\SensorsInterface\SensorsInterface\bin\Debug\netcoreapp2.0\SensorsInterface.runtimeconfig.dev.json
+Z:\lab\SensorsInterface\SensorsInterface\bin\Debug\netcoreapp2.0\SensorsInterface.dll
+Z:\lab\SensorsInterface\SensorsInterface\bin\Debug\netcoreapp2.0\SensorsInterface.pdb
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.dll
+Z:\lab\SensorsInterface\SensorsInterface\obj\Debug\netcoreapp2.0\SensorsInterface.pdb

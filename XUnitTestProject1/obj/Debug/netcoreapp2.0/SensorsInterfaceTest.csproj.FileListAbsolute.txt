@@ -1,0 +1,14 @@
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\SensorsInterfaceTest.deps.json
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\SensorsInterfaceTest.runtimeconfig.json
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\SensorsInterfaceTest.runtimeconfig.dev.json
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\SensorsInterfaceTest.dll
+Z:\lab\SensorsInterface\XUnitTestProject1\bin\Debug\netcoreapp2.0\SensorsInterfaceTest.pdb
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.csprojResolveAssemblyReference.cache
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.csproj.CoreCompileInputs.cache
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.AssemblyInfoInputs.cache
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.AssemblyInfo.cs
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.dll
+Z:\lab\SensorsInterface\XUnitTestProject1\obj\Debug\netcoreapp2.0\SensorsInterfaceTest.pdb
